@@ -1,0 +1,87 @@
+Nomes: Anthony, Camile n- 2 e 4
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        window.alert ("bom dia mundo")
+    </script>
+    <p>  4- Adicionar comportamento interativo nas páginas da web. ...<br>
+        Criar página na web e apps. ...<br>
+        Construir web servers e desenvolver aplicações. ...<br>
+         Desenvolvimento de jogos.</p>
+         <br>
+         <p>5-e uma estrutura para desenvolver aplicativos moveis</p>
+    
+</body>
+</html>
+
+Outra:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        window.alert ("Bom dia")
+        var num1= window.prompt ("digite o primeiro numero")
+        var num2= window.prompt ("digite o segundo numero")
+        document.write("O cubo e:", num1*num2)
+    </script>
+</body>
+</html>
+
+
+outra:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var n1= Number.parseInt (window.prompt ("digite o primeiro valor"))
+        var n2= Number.parseInt (window.prompt ("digite o segundo valor"))
+        var n3= Number.parseInt (window.prompt ("digite o terceiro valor"))
+        var n4= Number.parseInt (window.prompt ("digite o quarto valor"))
+        var n5= Number.parseInt (window.prompt ("digite o quinto valor"))
+        var soma=n1+n2+n3+n4+n5
+        window.alert (soma)
+    </script>
+</body>
+</html>
+
+
+outra: atv6
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var num1= window.prompt ("Nome do Aluno")
+        var num2= window.prompt ("Num do telefone")
+        document.write (num1+num2)
+    </script>
+</body>
+</html>
